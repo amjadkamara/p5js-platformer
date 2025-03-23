@@ -51,7 +51,7 @@ Open the index.html file in your web browser.
 Alternatively, use a local development server (for example, the Live Server extension in VS Code) to run the project.
 
 ## **How to Play**
-Movement: Use the A and D keys to move left and right.
+- Movement: Use the A and D keys to move left and right.
 - Jump: Press W to jump.
 - Fire Laser: Press the Enter key while moving to fire a laser.
 - Help Screen: Press H to toggle the help screen.
