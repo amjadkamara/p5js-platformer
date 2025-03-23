@@ -1,5 +1,7 @@
 # p5.js Platformer Game
 
+![Demo Screenshot](/demo_screenshot.jpg) <!-- Optional: Include an image if you have one -->
+
 ## **Project Overview**
 This project is a platformer game built using [p5.js](https://p5js.org/). Developed as part of my university of London coursework, the game combines dynamic graphics, interactive gameplay, and engaging sound effects to create a unique gaming experience. It features various in-game elements such as enemy drones, collectables, canyons, and platforms, all brought to life with creative animations and responsive controls.
 
